@@ -1,0 +1,19 @@
+{
+    "crop_recommendation": {
+        "best_model": "Random Forest Classifier",
+        "accuracy": 99.55,
+        "precision": 99.57,
+        "recall": 99.55,
+        "f1_score": 0.9955,
+        "rf_accuracy": 99.55,
+        "xgb_accuracy": 99.09
+    },
+    "yield_prediction": {
+        "best_model": "XGBoost Regressor",
+        "r2_score": 0.8801,
+        "rmse": 516.15,
+        "mae": 308.29,
+        "rf_r2": 0.8757,
+        "xgb_r2": 0.8801
+    }
+}
